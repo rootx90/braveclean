@@ -88,3 +88,12 @@ How to fix this quickly:
 1. The Quick Fix (Shields Down):
    - Click the Brave Lion icon in the address bar.
    - Toggle the Shields to DOWN for that specific site. It will reload and work normally.
+
+2. Secure DNS Conflicts:
+   - If no sites are loading, go to Settings > Privacy and security > Security.
+   - Find Use secure DNS and disable it temporarily, or switch to a custom provider (like Cloudflare 1.1.1.1) to avoid conflicts with your Linux network settings.
+3. Filter Conflicts:
+   - If a site works but the layout is broken, return to Content Filtering and uncheck some of the extra filters you recently enabled.
+
+---
+*This guide was created for the Linux community to provide a clean, fast, and secure browsing environment.*
